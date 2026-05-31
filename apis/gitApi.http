@@ -1,0 +1,7 @@
+POST  http://localhost:3000/api/git/cloneatcommit
+Content-Type: application/json
+
+{
+    "commitSha":"3c0c76a4ef592dea35a75ec6183d2443e59fc657",
+    "repoUrl":"https://app.gitpasha.com/AliMossa/alaa.git"
+}

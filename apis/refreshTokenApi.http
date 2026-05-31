@@ -1,0 +1,3 @@
+GET  http://localhost:3000/api/auth/refresh
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NiwiaWF0IjoxNzU5MTYyNzQ4LCJleHAiOjE3NTk3Njc1NDh9.umlA0Ju_Iz56qIIHaxgl-ooHLNFuvyZhs_qcKtbEDqk

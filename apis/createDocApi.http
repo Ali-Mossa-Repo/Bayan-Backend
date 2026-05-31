@@ -1,0 +1,8 @@
+POST http://localhost:3000/api/documents/createdocument
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NSwiaWF0IjoxNzU5MTEzMDk4LCJleHAiOjE3NTkxMTY2OTh9.fAy0RWTclb-UvMqnebLh8DRj6SkxvM76nWmVBcQ1nDg
+
+{
+  "title": "My First Document",
+  "file_path": "/home/orca/Documents/project/bayan_projects/bayan-backend/apis/file.md"
+}

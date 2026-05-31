@@ -1,0 +1,8 @@
+GET  http://localhost:3000/api/git/commits
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NSwiaWF0IjoxNzU5MTY2NzU5LCJleHAiOjE3NTk3NzE1NTl9.DBr8JxSgCgI3_Zs-vwNM7WtZpUy7Lpfay-a0oEAWzik
+
+{
+    "owner":"AliMossa",
+    "repo":"alaa"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "c9691f80-2184-4162-86ac-deb53a42bec6",
+  "name": "bayan-backend",
+  "projectId": "dddadf0e-58ca-4aa4-b685-d0b8840dc0ec",
+  "ports": [
+    {
+      "expose": true,
+      "number": 3000
+    }
+  ],
+  "publicAccess": {
+    "enabled": true,
+    "domain": "auto"
+  },
+  "resourceTier": "t1",
+  "dockerFileName": "Dockerfile"
+}

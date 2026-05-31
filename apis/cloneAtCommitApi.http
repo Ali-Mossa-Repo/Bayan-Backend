@@ -1,0 +1,9 @@
+POST   http://localhost:3000/api/git/cloneAtCommit
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6NiwiaWF0IjoxNzU5MTYyNzQ4LCJleHAiOjE3NTk3Njc1NDh9.umlA0Ju_Iz56qIIHaxgl-ooHLNFuvyZhs_qcKtbEDqk
+
+{
+    "filePath":"MARK.md",
+    "repoUrl":"https://app.gitpasha.com/AliMossa/alaa.git",
+    "commitSha":"0c452c4b1aa21e242cb8f779882f2bbb67790b9b"
+}
